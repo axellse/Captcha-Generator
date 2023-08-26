@@ -1,3 +1,3 @@
 # Captcha-Generator
-Simple Captcha Generator
-(c) The Pyret Group
+###### Simple Captcha Generator
+###### Copyright (c) 2023 The Pyret Group
